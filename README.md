@@ -1,6 +1,6 @@
 # Chatty
 
-Chatty is a real-time chat application built with React, Vite, Express, MongoDB, and Socket.io. It allows users to sign up, log in, and chat with other users in real-time. The application also supports image uploads and different themes.
+Chatty -[check live preview](https://chatty-0lnh.onrender.com/login) is a real-time chat application built with React, Vite, Express, MongoDB, and Socket.io. It allows users to sign up, log in, and chat with other users in real-time. The application also supports image uploads and different themes.
 
 ## Features
 
